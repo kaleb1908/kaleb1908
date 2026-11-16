@@ -10,7 +10,7 @@
   <a href="mailto:kaleb.7936@aluno.pr.senac.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=kaleb1908-&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge" alt="Contador de visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=kaleb1908&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge" alt="Contador de visualizações do perfil" />
 </div>
 
 <br />
